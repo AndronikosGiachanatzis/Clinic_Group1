@@ -1,4 +1,4 @@
-
+This is a project that was developed during my studies at University of Macedonia, Department of Applied Informatics during my 2nd year (Course: Software Engineering). It is a program that manages a simplified supply chain of a pharmacy that is part of a clinic. Also, it manages the working hours of the doctors or generally the employees that work in the facility as well as the human resources itself.
 
 ------INSTRUCTIONS FOR ADDING THE EXTERNAL LIBRARIES AND DATABASE DUMPS------
 
@@ -16,5 +16,8 @@ DATABASE: In the folder Database Dumps you will find the dump of the database th
 
  1.   Create a database (schema) in MySQL Workbench with the namw "mydb19"
  2.   Import the dump folder as is, in the database "mydb19"
+
+If any problems occur while trying to run the program please make sure that you have a valid Java version and that the libraries are
+imported correctly.
 
 Afterwards you're good to go to manage your Clinic's supply chain and human resources!!!
